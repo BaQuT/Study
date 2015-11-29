@@ -5,7 +5,7 @@ public class OverLoad {
 	
 	public OverLoad() {
 		// TODO Auto-generated constructor stub
-		a = 1000000000;
+		a = 100000000;
 	}
 
 	public int getA() {
